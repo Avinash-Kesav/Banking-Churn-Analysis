@@ -1,4 +1,9 @@
-Customer Churn Rate Across Average Relationship Duration
+		/*****
+				BANKING CHURN ANALYSIS & CUSTOMER RETENTION 
+                                                               *****/
+------------------------------------------------------------------------------------------------
+-- Customer Churn Rate Across Average Relationship Duration
+------------------------------------------------------------------------------------------------
 
 What % of customers are leaving the bank after stay with the bank for average period?
 SELECT 
