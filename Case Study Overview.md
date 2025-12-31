@@ -64,5 +64,3 @@ My Case study analyzes & handles 10k+ customer churn data for a bank to identify
  
 ---
  
-## File Structure
- 
